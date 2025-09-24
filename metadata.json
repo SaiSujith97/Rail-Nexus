@@ -1,0 +1,5 @@
+{
+  "name": "🚈RailNexus",
+  "description": "An intelligent decision-support system for Indian Railways section controllers. It uses AI to optimize train precedence and crossings in real-time, enhancing throughput, punctuality, and infrastructure utilization.",
+  "requestFramePermissions": []
+}
